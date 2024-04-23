@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\projects\MassTransatRabbitMQ\src\Publisher\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-04-08T18:31:17.1860504Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

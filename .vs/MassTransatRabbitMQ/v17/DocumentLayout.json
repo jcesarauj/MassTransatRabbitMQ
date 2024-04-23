@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\MassTransatRabbitMQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAF9941-47F8-40B1-A12E-FFBC34A8F384}|src\\Subscriber\\Subscriber.csproj|c:\\projects\\masstransatrabbitmq\\src\\subscriber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAF9941-47F8-40B1-A12E-FFBC34A8F384}|src\\Subscriber\\Subscriber.csproj|solutionrelative:src\\subscriber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAF9941-47F8-40B1-A12E-FFBC34A8F384}|src\\Subscriber\\Subscriber.csproj|c:\\projects\\masstransatrabbitmq\\src\\subscriber\\invoicerequesteventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAF9941-47F8-40B1-A12E-FFBC34A8F384}|src\\Subscriber\\Subscriber.csproj|solutionrelative:src\\subscriber\\invoicerequesteventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAF9941-47F8-40B1-A12E-FFBC34A8F384}|src\\Subscriber\\Subscriber.csproj|c:\\projects\\masstransatrabbitmq\\src\\subscriber\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDAF9941-47F8-40B1-A12E-FFBC34A8F384}|src\\Subscriber\\Subscriber.csproj|solutionrelative:src\\subscriber\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79215C4-7B96-4006-857F-4EE618AC2E2F}|src\\Publisher\\Publisher.csproj|c:\\projects\\masstransatrabbitmq\\src\\publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79215C4-7B96-4006-857F-4EE618AC2E2F}|src\\Publisher\\Publisher.csproj|solutionrelative:src\\publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12C324C-43C1-44FC-A4DB-4ECF5C2106BF}|src\\Domain\\Domain.csproj|c:\\projects\\masstransatrabbitmq\\src\\domain\\invoicerequestevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12C324C-43C1-44FC-A4DB-4ECF5C2106BF}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\invoicerequestevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79215C4-7B96-4006-857F-4EE618AC2E2F}|src\\Publisher\\Publisher.csproj|c:\\projects\\masstransatrabbitmq\\src\\publisher\\eventbus\\eventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79215C4-7B96-4006-857F-4EE618AC2E2F}|src\\Publisher\\Publisher.csproj|solutionrelative:src\\publisher\\eventbus\\eventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79215C4-7B96-4006-857F-4EE618AC2E2F}|src\\Publisher\\Publisher.csproj|c:\\projects\\masstransatrabbitmq\\src\\publisher\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79215C4-7B96-4006-857F-4EE618AC2E2F}|src\\Publisher\\Publisher.csproj|solutionrelative:src\\publisher\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79215C4-7B96-4006-857F-4EE618AC2E2F}|src\\Publisher\\Publisher.csproj|c:\\projects\\masstransatrabbitmq\\src\\publisher\\eventbus\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79215C4-7B96-4006-857F-4EE618AC2E2F}|src\\Publisher\\Publisher.csproj|solutionrelative:src\\publisher\\eventbus\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\MassTransatRabbitMQ\\src\\Subscriber\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Subscriber\\Program.cs",
+              "ToolTip": "C:\\projects\\MassTransatRabbitMQ\\src\\Subscriber\\Program.cs",
+              "RelativeToolTip": "src\\Subscriber\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:20:57.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoiceRequestEventConsumer.cs",
+              "DocumentMoniker": "C:\\projects\\MassTransatRabbitMQ\\src\\Subscriber\\InvoiceRequestEventConsumer.cs",
+              "RelativeDocumentMoniker": "src\\Subscriber\\InvoiceRequestEventConsumer.cs",
+              "ToolTip": "C:\\projects\\MassTransatRabbitMQ\\src\\Subscriber\\InvoiceRequestEventConsumer.cs",
+              "RelativeToolTip": "src\\Subscriber\\InvoiceRequestEventConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:16:01.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventBus.cs",
+              "DocumentMoniker": "C:\\projects\\MassTransatRabbitMQ\\src\\Publisher\\EventBus\\EventBus.cs",
+              "RelativeDocumentMoniker": "src\\Publisher\\EventBus\\EventBus.cs",
+              "ToolTip": "C:\\projects\\MassTransatRabbitMQ\\src\\Publisher\\EventBus\\EventBus.cs",
+              "RelativeToolTip": "src\\Publisher\\EventBus\\EventBus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:06:47.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\MassTransatRabbitMQ\\src\\Publisher\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Publisher\\Program.cs",
+              "ToolTip": "C:\\projects\\MassTransatRabbitMQ\\src\\Publisher\\Program.cs",
+              "RelativeToolTip": "src\\Publisher\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T19:48:01.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "C:\\projects\\MassTransatRabbitMQ\\src\\Publisher\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "src\\Publisher\\Controllers\\InvoiceController.cs",
+              "ToolTip": "C:\\projects\\MassTransatRabbitMQ\\src\\Publisher\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "src\\Publisher\\Controllers\\InvoiceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T19:40:55.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\projects\\MassTransatRabbitMQ\\src\\Subscriber\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\Subscriber\\appsettings.Development.json",
+              "ToolTip": "C:\\projects\\MassTransatRabbitMQ\\src\\Subscriber\\appsettings.Development.json",
+              "RelativeToolTip": "src\\Subscriber\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-07T21:40:27.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvoiceRequestEvent.cs",
+              "DocumentMoniker": "C:\\projects\\MassTransatRabbitMQ\\src\\Domain\\InvoiceRequestEvent.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\InvoiceRequestEvent.cs",
+              "ToolTip": "C:\\projects\\MassTransatRabbitMQ\\src\\Domain\\InvoiceRequestEvent.cs",
+              "RelativeToolTip": "src\\Domain\\InvoiceRequestEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:18:32.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEventBus.cs",
+              "DocumentMoniker": "C:\\projects\\MassTransatRabbitMQ\\src\\Publisher\\EventBus\\IEventBus.cs",
+              "RelativeDocumentMoniker": "src\\Publisher\\EventBus\\IEventBus.cs",
+              "ToolTip": "C:\\projects\\MassTransatRabbitMQ\\src\\Publisher\\EventBus\\IEventBus.cs",
+              "RelativeToolTip": "src\\Publisher\\EventBus\\IEventBus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:04:22.354Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
